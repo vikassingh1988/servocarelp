@@ -145,8 +145,8 @@ $formcontent='<table width="100%" border="0" cellspacing="0" cellpadding="0"
         </td>
         </tr>
     </table>';
-$recipient = "medxonehealthcare@gmail.com ";
-$subject = "Enquiry from Nexwin Pharma ";
+$recipient = "vikas052.webhopers@gmail.com";
+$subject = "Enquiry from Servocare lp ";
 // Always set content-type when sending HTML email
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";

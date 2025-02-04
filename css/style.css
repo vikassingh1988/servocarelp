@@ -100,7 +100,8 @@ button:focus,
 /* header */
 
 .top-header {
-  background: linear-gradient(45deg, #008993, #008993a6, #008993);
+  background: #607a89;
+  <!-- background: linear-gradient(45deg, #008993, #008993a6, #008993); -->
   background-size: 400% 400%;
   animation: animateGradient 5s linear infinite;
 }

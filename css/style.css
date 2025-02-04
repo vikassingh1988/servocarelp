@@ -1592,3 +1592,15 @@ div#navbarSupportedContent ul {
     text-shadow: 0 50px 0 #black, 0 0px 20px rgba(0, 0, 0, 0.8);
   }
 }
+
+
+
+.aps-wrapper {
+    text-align: center;
+}
+
+.aps-wrapper p {
+    font-size: 27px;
+    margin-bottom: 26px;
+}
+
